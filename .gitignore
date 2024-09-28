@@ -1,0 +1,7 @@
+*.swp
+.DS_Store
+vendor/
+composer.lock
+storage/
+bootstrap/
+.phpactor.json

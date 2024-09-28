@@ -23,7 +23,7 @@
     "require-dev": {
         "orchestra/testbench": "^9.5"
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "autoload": {
         "psr-4": {

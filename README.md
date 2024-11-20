@@ -2,6 +2,8 @@
 
 Laravel Resource Schema is a package that extends Laravel's API Resources, providing a flexible and powerful way to define and control the structure of your API responses.
 
+This package was created with a huge support from [Hidden Planet Productions](https://hiddenplanetproductions.com).
+
 Features:
 - Define schema types for your resources
 - Include properties dynamically
